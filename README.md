@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [14h4i]() (21 y.o) ! :sunglasses:
+I'm [14h4i](https://github.com/14h4i) (21 y.o) ! :sunglasses:
 
 I'm currently studying at a university. :ghost:
 
