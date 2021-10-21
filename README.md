@@ -17,7 +17,7 @@ I'm currently studying at a university. :school:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=14h4i&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=14h4i&langs_count=8&layout=compact)
 
 Feel free to contact me :yum:
 <br><br>
