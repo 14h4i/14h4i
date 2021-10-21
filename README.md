@@ -2,7 +2,7 @@
 
 I'm [14h4i](https://github.com/14h4i) (21 y.o) ! :sunglasses:
 
-I'm currently studying at a university. :ghost:
+I'm currently studying at a university. :school:
 
 :page_with_curl: I'm currently learning:
 <br><br>
