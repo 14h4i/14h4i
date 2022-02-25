@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [14h4i](https://portfolio-14h4i.web.app) (21 y.o) ! :sunglasses:
+I'm [14h4i](https://portfolio-14h4i.web.app) (22 y.o) ! :sunglasses:
 
 I'm currently studying at a university. :school:
 
