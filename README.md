@@ -2,7 +2,7 @@
 
 I'm [14h4i](https://portfolio-14h4i.web.app) (23 y.o) ! :sunglasses:
 
-I'm currently studying at a university. :school:
+I'm currently Flutter Developer with 2 years of experience.
 
 :page_with_curl: I'm currently learning:
 <br><br>
